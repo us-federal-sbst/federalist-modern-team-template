@@ -2,10 +2,10 @@
 title:  Increasing School Attendance in Seattle
 permalink: /projects/increasing-attendance-seattle/
 tags: project  
-#image: /assets/img/project-images/1809.jpg  
-#image-credit: http://www.pwsd76.ab.ca/employment/PublishingImages/classroom-stock.jpg
+image: /assets/img/project-images/1809.jpg  
+image-credit: http://www.pwsd76.ab.ca/employment/PublishingImages/classroom-stock.jpg
 analysis-plan: /assets/analysis/1809-analysis-plan.pdf
-abstract: 
+abstract: Proactive communications do not change attendance outcomes
 year: 2019
 domain: Education
 agency: Housing and Urban Development
