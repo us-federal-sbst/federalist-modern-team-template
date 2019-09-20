@@ -1,6 +1,6 @@
 ---
 title:  Increasing School Attendance in Seattle
-permalink: /projects/increasing-attendance-seattle/
+permalink: /projects/seattle-attendance-2018/
 tags: project  
 image: /assets/img/project-images/1809.jpg  
 image-credit: http://www.pwsd76.ab.ca/employment/PublishingImages/classroom-stock.jpg
