@@ -5,7 +5,7 @@ tags: project
 image: /assets/img/project-images/1809.jpg  
 image-credit: http://www.pwsd76.ab.ca/employment/PublishingImages/classroom-stock.jpg
 analysis-plan: /assets/analysis/1809-analysis-plan.pdf
-abstract: /assests/abstract/1809-abstract.pdf
+abstract: /assests/abstracts/1809-Project-Abstract.pdf
 year: 2019
 domain: Education
 agency: Housing and Urban Development
@@ -39,4 +39,4 @@ The results suggest that the communications did not change attendance outcomes.
 2. *Postcard intervention:* The results for the postcard intervention are forthcoming, and the abstract will be updated once the results are final.
 3. *Text message intervention:* SHA students in the text message group were absent on average 12.0 days during the spring semester. That is an increase of 0.18 day over the control group, but the difference is not statistically different from zero (p = 0.63, 95% CI [-0.544, 0.900]). Students in the text message group were absent on average 14.1 percent of days during the spring semester, an increase of 0.04 percentage point versus the control group. The difference is not statistically significant (p =0.93 , 95% CI [-0.873, 0.958]).
 
-<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/analysis/analysis-plan.pdf">here</a>.
+<i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/abstracts/1809-Project-Abstract.pdf">here</a>.
