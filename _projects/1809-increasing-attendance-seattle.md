@@ -5,11 +5,11 @@ tags: project
 image: /assets/img/project-images/1809.jpg  
 image-credit: http://www.pwsd76.ab.ca/employment/PublishingImages/classroom-stock.jpg
 analysis-plan: /assets/analysis/1809-analysis-plan.pdf
-abstract: Proactive communications do not change attendance outcomes
+abstract: /assests/abstract/1809-abstract.pdf
 year: 2019
 domain: Education
 agency: Housing and Urban Development
-summary: Analysis Plan Registration
+summary: Proactive communications do not change attendance outcomes
 # featured: homepage
 ---
 
