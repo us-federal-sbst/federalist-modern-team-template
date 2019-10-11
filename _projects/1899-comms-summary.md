@@ -4,7 +4,10 @@ permalink: /projects/effective-communications/
 tags: project  
 image: /assets/img/project-images/1899.jpeg  
 abstract: /assets/abstracts/OES Learnings on Writing Better Communications 2018.pdf
-year: 2018  
+resource:
+  - abstract
+  - intervention
+year: 2018
 domain: Communications
 ---
 ## What has OES learned?

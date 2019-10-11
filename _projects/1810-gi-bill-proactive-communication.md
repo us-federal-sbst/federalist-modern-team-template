@@ -8,6 +8,9 @@ analysis-plan: /assets/analysis/1810-analysis-plan.pdf
 intervention:
 abstract: /assets/abstracts/1810-gi-bill-proactive-communication.pdf
 article:
+resource:
+  - abstract
+  - analysis-plan
 year: 2019
 domain: Education
 agency: Veterans Affairs
