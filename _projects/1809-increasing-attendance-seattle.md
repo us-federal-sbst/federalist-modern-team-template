@@ -36,7 +36,7 @@ The three evidence-based interventions were tested with household-level randomiz
 
 The results suggest that the communications did not change attendance outcomes.
 1. *Robocall intervention:* Students in households sent the robocalls were absent on average 10.3 days during the fall semester, a reduction of 0.16 day from the control group. The difference is not statistically significant from zero. The average student in the robocall group was absent 13.1 percent of days he/she was enrolled, which was a decrease of 0.34 percentage point versus the control group, also not statistically significant.
-2. *Postcard intervention:* The results for the postcard intervention are forthcoming, and the abstract will be updated once the results are final.
+2. *Postcard intervention:* OES was not able to complete the analysis as planned. In cases where data are not available or the evaluation did not provide comparable comparison groups, OES does not report results. In this case, outcome data were not available.
 3. *Text message intervention:* SHA students in the text message group were absent on average 12.0 days during the spring semester. That is an increase of 0.18 day over the control group, but the difference is not statistically different from zero. Students in the text message group were absent on average 14.1 percent of days during the spring semester, an increase of 0.04 percentage point versus the control group. The difference is not statistically significant.
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/commits/master/assets/abstracts/1809-Project-Abstract.pdf">here</a>.
