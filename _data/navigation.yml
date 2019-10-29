@@ -1,31 +1,33 @@
 primary:
-  - text: Our Mission
+  - text: Our mission
+    href: /mission/
     links:
     - text: About
       href: /about/
     - text: Team
       href: /team/
-  - text: Our work
+  - text: Building evidence
+    href: /building-evidence/
     links:
-    - text: Building Evidence
-      href: /building-evidence/
-    - text: Using Evidence
-      href: /using-evidence/
+    - text: Evaluation portfolio
+      href: /evaluation-portfolio/
+    - text: Evaluation methods
+      href: /evaluation-methods/
     - text: Evidence Act
       href: /evidence-act/
-  - text: Resources
+  - text: Using evidence
     links: 
-    - text: TBD 1
-      href: /work/
-    - text: TBD 2
-      href: /team/
-    - text: TBD 3
-      href: /events/
+    - text: Evidence practices
+      href: /evidence-practices/
+    - text: Evidence Act toolkits
+      href: /toolkits/
+    - text: Evidence utilization blog
+      href: /blog/
   - text: Connect
     links:
-      - text: Events
-        href: /events/
       - text: Opportunities
         href: /opportunities/
+      - text: Events
+        href: /events/
       - text: Press
         href: /press/
