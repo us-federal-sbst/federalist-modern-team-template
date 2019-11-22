@@ -4,8 +4,6 @@ primary:
     links:
     - text: About
       href: /about/
-    - text: Team
-      href: /team/
   - text: Building evidence
     href: /building-evidence/
     links:
@@ -13,15 +11,13 @@ primary:
       href: /evaluation-portfolio/
     - text: Evaluation methods
       href: /evaluation-methods/
-    - text: Evidence Act
-      href: /evidence-act/
   - text: Using evidence
     links: 
     - text: Evidence practices
       href: /evidence-practices/
     - text: Evidence Act toolkits
       href: /toolkits/
-    - text: Evidence utilization blog
+    - text: Using evidence blog
       href: /blog/
   - text: Connect
     links:
