@@ -6,11 +6,11 @@ image:
 summary: Our team posts regular updates on our collaborations, resources and evidence utilization. 
 ---
 
-<div class="margin-top-4">
-  <div class="grid-row grid-gap">
-    {% assign sorted_blog = site.blog | sort:"year" | reverse %}
-    {% for project in sorted_blog %}
-      {% include project-card.html %}
-    {% endfor %}
+<section class="usa-section background-dark section-intro">
+  <div class="grid-container">
+    <div class="section-intro-header">
+      <h1 class="section-heading section-heading-alt">{{ page.title }}</h1>
+      <h2>{{ page.blog_tagline }}</h2>
+    </div>
   </div>
-</div>
+</section>
