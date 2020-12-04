@@ -81,7 +81,7 @@ body:not(.page-home) {
 
 .background-light,
 .bg-secondary-lighter {
-  background-color: #CFFFF7;
+  background-color: color('secondary-lighter');
 
   .card {
     background-color: color('white');
