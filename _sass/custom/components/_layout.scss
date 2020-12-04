@@ -76,19 +76,19 @@ body:not(.page-home) {
 // TODO: use the actual USWDS color token for this
 .background-brand-dark {
   @include background-dark;
-  background-color: #247F9B;
+  background-color: #CFFFF7;
 }
 
 .background-light,
 .bg-secondary-lighter {
-  background-color: #BEEAE3;
+  background-color: #CFFFF7;
 
   .card {
-    background-color: #03CAB9;
+    background-color: color('white');
   }
 
   .usa-button {
-    background-color: #0D8473;
+    background-color: #13C4AB;
   }
 }
 
