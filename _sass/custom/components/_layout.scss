@@ -76,12 +76,12 @@ body:not(.page-home) {
 // TODO: use the actual USWDS color token for this
 .background-brand-dark {
   @include background-dark;
-  background-color: #CFFFF7;
+  background-color: #11AB95;
 }
 
 .background-light,
 .bg-secondary-lighter {
-  background-color: #CFFFF7;
+  background-color: #11AB95;
 
   .card {
     background-color: color('white');
