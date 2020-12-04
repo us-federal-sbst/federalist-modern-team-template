@@ -65,30 +65,30 @@ body:not(.page-home) {
 
 .background-medium {
   @include background-dark;
-  background-color: $color-brand-medium;
+  background-color: #247F9B;
 }
 
 .background-gray-dark {
   @include background-dark;
-  background-color: color('base-darker');
+  background-color: #19677F;
 }
 
 // TODO: use the actual USWDS color token for this
 .background-brand-dark {
   @include background-dark;
-  background-color: #237696;
+  background-color: #247F9B;
 }
 
 .background-light,
 .bg-secondary-lighter {
-  background-color: color('secondary-lighter');
+  background-color: #BEEAE3;
 
   .card {
-    background-color: color('white');
+    background-color: #03CAB9;
   }
 
   .usa-button {
-    background-color: color('secondary-dark');
+    background-color: #0D8473;
   }
 }
 
