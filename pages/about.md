@@ -15,7 +15,7 @@ Since 2015, OES has recruited over 100 interdisciplinary experts (psychologists,
 
 ## What we do
 
-Team members work alongside agency collaborators to translate behavioral insights into concrete recommendations for how to improve government and evaluate their impact using administrative data. We also work with agencies to interpret and apply what we’ve learned together, and share leading practices, resources, and build the skills of civil servants to continue this work.
+Team members work alongside agency collaborators to translate <a href="{{site.baseurl}}/terminology-detail/#behavioral-insights">behavioral insights</a> into concrete recommendations for how to improve government and <a href="{{site.baseurl}}/terminology-detail/#randomized-evaluations">evaluate their impact</a> using administrative data. We also work with agencies to interpret and apply what we’ve learned together, and share leading practices, resources, and build the skills of civil servants to continue this work.
 
 ## Why is OES at GSA?
 
