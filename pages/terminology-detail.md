@@ -25,3 +25,5 @@ Embedded evaluations are evaluations that take place within normal day to day ac
 ## Program improvements
 The end goal of OES evaluations is to better government programs in how they are run, how efficient they are, and how well they accomplish their intended purposes. Evaluation results lead to program improvements across the federal government.
 
+## Impact evaluations
+An impact evaluation can help answer the question, "does it work, or did the intervention lead to the observed outcomes?" An Impact Evaluation assesses the causal impact of a program, policy, or organization, or aspect thereof, on outcomes relative to those of a counterfactual. This type of evaluation compares outcomes with and without the program, policy, or organization. Impact evaluations include both experimental (i.e., randomized controlled trials) and quasi-experimental designs (<a href="https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-12.pdf">OMB M20-12</a>).
