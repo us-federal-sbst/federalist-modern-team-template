@@ -10,10 +10,7 @@ summary: How can OES support your evidence-based policy making needs?
 
 In response to the Foundations for Evidence-Based Policy Making Act of 2018, OES is expanding our government-wide resources, trainings and evaluation services. These efforts will provide broader support  to agencies developing priority impact evaluations and evidence-building activities. OES will support agencies design and implement additional impact evaluations on a reimbursable basis starting in FY21.
 
-Responding to the growing need for evaluation support, OES will work with agency partners to design and implement a broad range of impact evaluations starting in FY21. OES will continue to work with agencies to evaluate the application of behavioral insights to improve government and work with agencies to share leading practices, resources, and build the skills of civil servants to continue this work.
-
-### What is an Impact Evaluation? 
-An impact evaluation can help answer the question, "does it work, or did the intervention lead to the observed outcomes?" An Impact Evaluation assesses the causal impact of a program, policy, or organization, or aspect thereof, on outcomes relative to those of a counterfactual. This type of evaluation compares outcomes with and without the program, policy, or organization. Impact evaluations include both experimental (i.e., randomized controlled trials) and quasi-experimental designs (<a href="https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-12.pdf">OMB M20-12</a>).
+Responding to the growing need for evaluation support, OES will work with agency partners to design and implement a broad range of <a href="<a href="{{site.baseurl}}/terminology-detail/#impact-evaluations">">impact evaluations</a> starting in FY21. OES will continue to work with agencies to evaluate the application of behavioral insights to improve government and work with agencies to share leading practices, resources, and build the skills of civil servants to continue this work.
 
 ### OES has experience designing rigorous impact evaluations.
 Here are some examples:
