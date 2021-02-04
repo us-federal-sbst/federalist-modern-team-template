@@ -5,7 +5,6 @@ permalink: /services/
 image:
 image_full: 
 class:
-summary: placeholder text
 ---
 
 In response to the Foundations for Evidence-Based Policy Making Act of 2018, OES is expanding our government-wide resources, trainings and evaluation services. These efforts will provide broader support  to agencies developing priority impact evaluations and evidence-building activities. OES will support agencies design and implement additional impact evaluations on a reimbursable basis starting in FY21.
