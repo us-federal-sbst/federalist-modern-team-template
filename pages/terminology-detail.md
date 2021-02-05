@@ -8,7 +8,7 @@ class:
 summary: 
 ---
 ## Behavioral insights
-The behavioral insights  approach uses evidence-based evaluations to try and understand how people make decisions. The approach utilizes applications from multiple disciplines including cognitive sciences like psychology, and social sciences like economics. Light-touch behavioral interventions—including simplification, personalization, and social norm comparison—have become increasingly  common in the academic literature and government programs. Behavioral insights can help turn evaluations into concrete recommendations.
+The behavioral insights approach uses evidence-based evaluations to try and understand how people make decisions. The approach utilizes applications from multiple disciplines including cognitive sciences like psychology, and social sciences like economics. Light-touch behavioral interventions—including simplification, personalization, and social norm comparison—have become increasingly  common in the academic literature and government programs. Behavioral insights can help turn evaluations into concrete recommendations.
 
 ## Evidence
 Evidence can be defined as anything brought forth that supports a claim. Most evidence used in evidence-based policymaking is empirical evidence, which is evidence that is observed by the senses and documented. OES ensures that the evidence we generate is as reliable as possible by being transparent about methods and results, as well as making sure analyses can be replicated by analysts who don’t previously know the results.
