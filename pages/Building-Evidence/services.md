@@ -28,7 +28,6 @@ OES will support agencies to design priority evaluations. OES will:
 - Identify and refine priority outcomes, with focus on administrative data 
 - Propose evaluation method, mapped to question, learning objective and policy goals
 - **Deliverable:** Evaluation design report
-- *Implementation:* Evaluation designs could be implemented by agencies, contractors, academics, or other partners. OES can implement evaluations on priority government-wide and agency topics on a reimbursable basis.
 
 ### How does OES engage with agencies to design evaluations?
 OES aims to conduct evaluation design projects over an approximately 3-month sprint from initial project scoping to delivering an evaluation design report. OES can work on a limited number of designs in FY21 and FY22 on a non-reimbursable basis for projects that support government-wide learning and evidence building. OES and agency partners can collaborate on multiple evaluation designs over a longer time period with a reimbursable Interagency Agreement to develop a portfolio of evaluations.
