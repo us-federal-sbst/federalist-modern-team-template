@@ -1,0 +1,64 @@
+.page-guides {
+  .graphic-list-item {
+    @include grid-col(6);
+
+    &:nth-child(2n) {
+      margin-right: 0;
+    }
+
+    @include at-media('tablet') {
+      @include grid-col(3);
+      width: 30%;
+    }
+    img {
+      max-width: 6rem;
+    }
+  }
+
+  .graphic-row {
+    &:first-of-type {
+      @include at-media('tablet') {
+        margin-bottom: 3rem;
+        margin-top: 3rem;
+      }
+    }
+
+    &:last-of-type {
+      .graphic-list-link {
+        @include at-media('tablet') {
+          margin-bottom: 2rem;
+        }
+      }
+    }
+  }
+
+  .graphic-list-link {
+    @include u-margin-y(3);
+    @include media-link;
+    text-decoration: none;
+    width: 100%;
+
+    &:visited {
+      color: $color-medium;
+
+      &:hover {
+        color: $color-medium-hover;
+      }
+    }
+  img {
+      max-width: 6rem;
+    }
+  }
+
+
+
+  .link-arrow-right {
+    margin-top: 1.5rem;
+  }
+
+  .link-lean {
+    @include at-media('tablet') {
+      width: 10rem;
+    }
+  }
+}
