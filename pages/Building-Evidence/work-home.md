@@ -5,6 +5,7 @@ permalink: /work/
 ---
 Since 2015, the Office of Evaluation Sciences has completed more than 70 evaluations with more than a dozen agencies.
 <center>
+  <div class="page-guides">
   <div class="usa-grid-full grid-row">
     <div class="graphic-list-item">
       <a class="graphic-list-link" href="{{ site.baseurl }}/evaluations/">
@@ -24,5 +25,6 @@ Since 2015, the Office of Evaluation Sciences has completed more than 70 evaluat
         Portfolios
       </a>
     </div>
+   </div>
   </div>
   </center>
