@@ -8,20 +8,20 @@ Since 2015, the Office of Evaluation Sciences has completed more than 70 evaluat
   <div class="usa-grid-full grid-row">
     <div class="graphic-list-item">
       <a class="graphic-list-link" href="{{ site.baseurl }}/evaluations/">
-        <img src="{{ site.baseurl }}/assets/img/icons/evaluations.png" alt="">
-          Evaluations
+        <img src="{{ site.baseurl }}/assets/img/icons/evaluations.png" class="display-block margin-x-auto square-30">
+        <h2>Evaluations</h2>
       </a>
     </div>
     <div class="graphic-list-item">
       <a class="graphic-list-link" href="{{ site.baseurl }}/collaborations">
-        <img src="{{ site.baseurl }}/assets/img/icons/collaborations.png" alt="">
-          Collaborations
+        <img src="{{ site.baseurl }}/assets/img/icons/collaborations.png" class="display-block margin-x-auto square-30">
+        <h2>Collaborations</h2>
       </a>
     </div>
     <div class="graphic-list-item">
       <a class="graphic-list-link" href="{{ site.baseurl }}/portfolios/">
-        <img src="{{ site.baseurl }}/assets/img/icons/portfolios.png" alt="">
-          Portfolios
+        <img src="{{ site.baseurl }}/assets/img/icons/portfolios.png" class="display-block margin-x-auto square-30">
+        <h2>Portfolios</h2>
       </a>
     </div>
   </div>
