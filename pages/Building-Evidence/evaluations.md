@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building evidence
-permalink: /work/
+permalink: /evaluations/
 image:
 summary: Since 2015, the Office of Evaluation Sciences has completed more than 70 evaluations with more than a dozen agencies. 
 
