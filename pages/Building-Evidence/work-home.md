@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: primary
 title: Our Work
 permalink: /work/
 ---
