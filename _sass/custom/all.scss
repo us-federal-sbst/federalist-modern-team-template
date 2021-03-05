@@ -14,10 +14,12 @@
 @import "components/hero";
 @import "components/layout";
 @import "components/logo";
-@import "components/navigation";
 @import "components/project-single";
 @import "components/wrapper";
 @import "components/toolkits";
+@import 'packages/usa-nav-container';
+@import 'packages/usa-nav';
+@import 'packages/usa-navbar';
 
 // Pages --------- //
 @import "pages/projects";
