@@ -7,7 +7,7 @@
 {% elsif header.type == 'extended' or header.type == 'extended-mega' %}
   <header class="usa-header usa-header--extended" role="banner">
 {% endif %}
-
+  {% include navigation.html navbar=true %}
   {% include components/banner.html %}
 
   {% if header.type == 'basic' or header.type == 'basic-mega' %}
@@ -27,6 +27,7 @@
         </a>
       </div>
       <button class="usa-menu-btn">Menu</button>
+      
     </div>
 
     <nav role="navigation" class="usa-nav">
