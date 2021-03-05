@@ -28,12 +28,13 @@
       </div>
       <button class="usa-menu-btn">Menu</button>
     </div>
-
+{% include navigation.html navbar=true %}
     <nav role="navigation" class="usa-nav">
       <div class="usa-nav__inner">
         <button class="usa-nav__close">
           <img src="{{ site.baseurl }}/assets/uswds/img/close.svg" alt="close">
         </button>
+        
 
         {% assign _primary = header.primary.links %}
         {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
