@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<section class="{% unless page.gridless %}grid-container usa-section {% endunless %}{% if page.include_subnav %} content-wide {% endif %}">
+  {% if page.include_subnav %}
+  <div class="grid-row grid-gap">
+    <aside class="tablet:grid-col-4 margin-bottom-2 z-top bg-white sticky">
+      {% include navigation.html subnav=true %}
+    </aside>
+    <section class="tablet:grid-col-8">
+      {% if page.image and page.lead %}
+      <h3 class="page-lead">{{ page.lead }}</h3>
+      {% endif %}
+      {{ content }}
+    </section>
+    {% else %}
+    {% if page.image and page.lead %}
+    <h3 class="page-lead">{{ page.lead }}</h3>
+    {% endif %}
+    {{ content }}
+    {% endif %}
+  </div>
+</section>
