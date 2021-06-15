@@ -5,6 +5,8 @@ GIT
   specs:
     uswds-jekyll (5.0.0)
       jekyll (>= 4.0)
+git clone git://github.com/jquery/jquery.git
+git checkout 1.2.6
 
 GEM
   remote: https://rubygems.org/
