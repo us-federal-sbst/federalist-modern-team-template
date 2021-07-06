@@ -12,7 +12,6 @@ project_tags:
 ## Overview
 Our portfolios have spanned areas such as global health, improving vaccination rates, and increasing educational opportunity. 
 
-{% include filter.html items=site.portfolios filters=page.filters %}
 <div class="margin-top-4">
   <div class="grid-row grid-gap">
     {% assign sorted_portfolios = site.portfolios | sort:"year" | reverse %}
